@@ -24,8 +24,5 @@ A fun and interactive **Number Guessing Game** built with **Python** and **Tkint
 - **Tkinter** - for GUI design
 - **random** module - to generate the number
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/number-guessing-game.git
-cd number-guessing-game
+## 📘 Internship Information
+This project was completed as **Task 2** under the **Software Development Internship** at [Prodigy Infotech](https://prodigyinfotech.dev/).
